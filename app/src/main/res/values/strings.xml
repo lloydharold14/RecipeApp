@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RecipeApp</string>
+    <string name="search">Search...</string>
+    <string name="no_results">No results</string>
+    <string name="search_recipe">Search Your recipe</string>
+
+
+</resources>
